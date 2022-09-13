@@ -1,1 +1,1 @@
-s section introduces variables, loops and conditional statements
+This section introduces variables, loops and conditional statements

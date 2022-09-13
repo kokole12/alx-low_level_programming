@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * print_to_98 - prints values upto 98
- * 
- */
-
+* print_to_98 - prints values upto 98
+* 
+* @n: variable for comparison
+*/
 void print_to_98(int n)
 {
 	int i;

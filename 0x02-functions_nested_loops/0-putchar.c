@@ -1,16 +1,21 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include <stdion>
 
 /**
- * main - entry point to the program
- * 
- * Return : alwauys returns a 0 sucess
- * 
- * 
+ * main - entry point
+ *
+ * Return: return a
+ *
  */
 int main(void)
 {
-    printf("_putchar");
-    putchar('\n');
-    return (0);
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('t');
+	_putchar('\n');
+	return (0);
 }

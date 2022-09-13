@@ -3,6 +3,7 @@
 /**
  * _islower - main function
  *
+ * @c: charactor for comparison to alphabets
  *
  * Return: 1 if true, 0 if false
  *

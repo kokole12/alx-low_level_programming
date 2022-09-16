@@ -1,9 +1,7 @@
-#include "main.h"
-
+#include "holberton.h"
 /**
  * print_numbers - prints the numbers
- * 
- * _putchar: prints the characters
+ *
  */
 void print_numbers(void)
 {

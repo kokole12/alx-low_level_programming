@@ -1,1 +1,0 @@
-This section explores more on functions in c programming

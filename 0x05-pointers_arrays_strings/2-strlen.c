@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 /**
- *
  * _strlen - return the length of the string
  *
  * @s: is out test value to pass as an array

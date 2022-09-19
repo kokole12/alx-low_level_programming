@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- *
  * swap_int -  swaps two intergers
+ *
  * @a: variable 1
  * @b: are the comparison integers
  *

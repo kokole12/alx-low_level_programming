@@ -1,0 +1,1 @@
+This directory takes through the c pointers, arrays and strings in c programming language

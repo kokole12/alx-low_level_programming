@@ -5,8 +5,8 @@
  *
  * _strlen - return the length of the string
  *
- * @s: is out test value to pass as an array of string to form the string and loop to find the length
- * 
+ * @s: is out test value to pass as an array
+ *
  */
 int _strlen(char *s)
 {

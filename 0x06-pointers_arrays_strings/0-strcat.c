@@ -3,6 +3,7 @@
 /**
  *
  * _strcat - concats two strings
+ *
  * @dest: destination string
  * @src: source string
  *

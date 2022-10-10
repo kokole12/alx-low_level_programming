@@ -1,0 +1,1 @@
+This section is on more memory handling in c programming

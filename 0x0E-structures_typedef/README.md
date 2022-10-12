@@ -1,0 +1,1 @@
+This is the section that looks at STRUCTS in c programing

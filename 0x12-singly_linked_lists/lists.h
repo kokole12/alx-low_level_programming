@@ -1,5 +1,5 @@
-#ifndef _MAIN_
-#define _MAIN_
+#ifndef LISTS_H
+#define LISTS_H
 #include <stddef.h>
 int _putchar(char c);
 /**

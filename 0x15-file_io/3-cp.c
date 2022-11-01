@@ -51,5 +51,6 @@ if (close(fdToo) == -1)
 dprintf(STDERR_FILENO, "Error: Can't close fd %d", fdToo);
 exit(100);
 }
+
 return (0);
 }
